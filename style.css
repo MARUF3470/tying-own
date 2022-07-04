@@ -66,3 +66,8 @@ span{
     box-shadow: 10px 10px 15px gray;
     width:88%;
 }
+.bg{
+    background-image:url(/images/shapes/7.png); width:100%;
+    height:333px;
+    padding-bottom: 10%;
+}
