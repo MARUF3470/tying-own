@@ -67,7 +67,8 @@ span{
     width:88%;
 }
 .bg{
-    background-image:url(/images/shapes/7.png); width:100%;
+    background-image:url(/images/shapes/Frame\ 57.jpg); width:100%;
     height:333px;
     padding-bottom: 10%;
+    background-repeat: no-repeat;
 }
